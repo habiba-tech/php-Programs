@@ -1,0 +1,10 @@
+<?php
+$a = 25;
+$b = 40;
+
+if ($a > $b) {
+    echo "$a is larger.";
+} else {
+    echo "$b is larger.";
+}
+?>
